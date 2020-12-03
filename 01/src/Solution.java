@@ -40,6 +40,7 @@ public class Solution {
 //        		}
 //        	}
 //        }
+
         for(int i = 0; i < list.size(); i++) {
         	int A = list.get(i);
         	for(int j = i + 1; j < list.size(); j++) {
